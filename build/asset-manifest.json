@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be80f661.css",
+    "main.js": "/static/js/main.3a47af2d.js",
+    "static/media/25 Mini.jpg": "/static/media/25 Mini.40a8bc45659d1a44179c.jpg",
+    "static/media/Responsive Portfolio website.jpg": "/static/media/Responsive Portfolio website.faeb6151bf0d8ac35acc.jpg",
+    "static/media/my_resume-1.pdf": "/static/media/my_resume-1.8f55dec887e4578fb369.pdf",
+    "static/media/20 Mini Projects.jpg": "/static/media/20 Mini Projects.3e9532c2fad98707b380.jpg",
+    "static/media/GitHub.svg": "/static/media/GitHub.2b4456b36f8706431def0d909bb9ad03.svg",
+    "static/media/Twitter.svg": "/static/media/Twitter.063e408bdbfedcadda6386c10f3297a5.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.18838ad3e1254cd81e4dc53d2457f966.svg",
+    "static/media/LinkedIn.svg": "/static/media/LinkedIn.eae39add2d508b3b7718b64eb9dad473.svg",
+    "index.html": "/index.html",
+    "static/media/curves.svg": "/static/media/curves.ff5983106bef7f242aa1d92da7e2480b.svg",
+    "main.be80f661.css.map": "/static/css/main.be80f661.css.map",
+    "main.3a47af2d.js.map": "/static/js/main.3a47af2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be80f661.css",
+    "static/js/main.3a47af2d.js"
+  ]
+}
